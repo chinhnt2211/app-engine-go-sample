@@ -1,1 +1,1 @@
-# app-engine-go-sample
+# Go Sample Code for App Engine FCI
